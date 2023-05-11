@@ -19,5 +19,7 @@ To utilize my knowledge and ideas in this field of Data Engineerig, Data Science
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taran2785)](https://github.com/anuraghazra/github-readme-stats)
+
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=taran2785&theme=dark&mode=weekly)](https://git.io/streak-stats)
