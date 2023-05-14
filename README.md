@@ -21,8 +21,9 @@ How to architectect better data system
 
 😄 Words that describe me - Self-motivated, Focused, Hardworking & Perfectionist.
 
-My Certifications and Courses
-Azure Certified Data Engineer – Associate
+**My Certifications and Courses**8
+
+**Azure Certified Data Engineer – Associate**
 
 Data Science Professional Certificate
 
