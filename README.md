@@ -17,7 +17,7 @@ How to architectect better data system
 
 📫 How to reach me tarangds@gmail.com
 
-⚡ Fun fact My Patronus is a Manx cat.
+⚡ Fun fact -Don't disturb me while sleeping😉
 
 😄 Words that describe me - Self-motivated, Focused, Hardworking & Perfectionist.
 
