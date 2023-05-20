@@ -15,6 +15,11 @@ Exporing Modern Data Stack (dbt, Airbyte, Databricks)
 Amazon & GCP (Already worked with Azure)
 How to architectect better data system
 
+📝 Here are my most recent blogs:
+Medium:
+
+[![Taranjit Kaur Medium](https://mediumblog-cards.vercel.app/getMediumBlogs?username=tarangds)]
+
 📫 How to reach me tarangds@gmail.com
 
 ⚡ Fun fact -Don't disturb me while sleeping😉
