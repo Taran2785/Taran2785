@@ -20,8 +20,6 @@ How to architectect better data system
 
 📫 How to reach me tarangds@gmail.com
 
-⚡ Fun fact -Don't disturb me while sleeping😉
-
 😄 Words that describe me - Self-motivated, Focused, Hardworking & Perfectionist.
 
 **My Certifications and Courses**
@@ -31,6 +29,8 @@ How to architectect better data system
 Data Science Professional Certificate
 
 Python by Dataquest
+
+⚡ Fun fact -Don't disturb me while sleeping😉
 
 
 <div id="header" align="center">
