@@ -1,6 +1,5 @@
 
 Hi there, it's Taran 👋 (Taranjit Kaur)
-😄 My pronouns are: She/Her
 
 Data Engineer| Data Scientist | Data Analyst
 
@@ -28,7 +27,7 @@ Medium:
 
 **My Certifications and Courses**8
 
-**Azure Certified Data Engineer – Associate**
+**Microsoft Certified Azure Data Engineer – Associate**
 
 Data Science Professional Certificate
 
