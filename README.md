@@ -14,8 +14,7 @@ Exporing Modern Data Stack (dbt, Airbyte, Databricks)
 Amazon & GCP (Already worked with Azure)
 How to architectect better data system
 
-📝 Here are my most recent blogs:
-Medium:
+📝 **Here are my most recent blogs**:**Medium**:
 
 [![Taranjit Kaur Medium](https://mediumblog-cards.vercel.app/getMediumBlogs?username=tarangds)]
 
@@ -25,7 +24,7 @@ Medium:
 
 😄 Words that describe me - Self-motivated, Focused, Hardworking & Perfectionist.
 
-**My Certifications and Courses**8
+**My Certifications and Courses**
 
 **Microsoft Certified Azure Data Engineer – Associate**
 
